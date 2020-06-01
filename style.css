@@ -1,0 +1,30 @@
+body{
+    background: red;
+    color:#fff;
+}
+
+.title-top{font-size: 40px;font-weight: 600; padding:20px;}
+
+.btn{
+    color:red;
+    background: #fff;
+    border: none;
+    display: block;
+    max-width: 200px;
+}
+
+
+.btn:hover{
+    background: #fff;
+    color:red;
+    opacity: 0.8;
+}
+
+.painel-menu{
+    padding-top: 100px;
+    /* height: 400px; */
+}
+
+footer{
+    margin-top: 50px;
+}

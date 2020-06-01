@@ -1,0 +1,12 @@
+nome do banco do Sistema 2 = paulo
+nome do banco do Sistema 1 = legado
+
+estão na pasta bancos-usados
+
+
+#Desconsiderar os nomes das pastas
+
+
+
+
+
